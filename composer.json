@@ -1,0 +1,17 @@
+{
+    "name": "nakedspirit/TestCase",
+    "description": "testcase.beejee",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nakedspirit",
+            "email": "galinka@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TestCase\\": ""
+        }
+    }
+}
